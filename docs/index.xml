@@ -6,7 +6,19 @@
     <description>Recent content on EP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ericpettengill.github.io/ep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ericpettengill.github.io/ep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extract Tableau Shapes Using Python</title>
+      <link>https://ericpettengill.github.io/ep/posts/extract-tableau-shapes/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericpettengill.github.io/ep/posts/extract-tableau-shapes/</guid>
+      <description>How to extract custom shapes from tableau workbooks using python and beautifulsoup4.
+INSPIRATION
+CODE
+from bs4 import BeautifulSoup import base64 import os import pathlib def main(workbook_path: str): &amp;#34;&amp;#34;&amp;#34; :param workbook_path: string /path/to/workbook.twb :return: None &amp;#34;&amp;#34;&amp;#34; fp = pathlib.Path(workbook_path) assert fp.suffix == &amp;#39;.twb&amp;#39;, f&amp;#34;workbook must be *.twb file, you passed {fp.suffix}&amp;#34; with open(fp, &amp;#39;r&amp;#39;) as f: y = BeautifulSoup(f) out = {} for shapes in y.find_all(&amp;#34;shapes&amp;#34;): for img in shapes.find_all(&amp;#39;shape&amp;#39;): out.update({ img.</description>
+    </item>
+    
     <item>
       <title>Running Python Scripts from Batch File</title>
       <link>https://ericpettengill.github.io/ep/posts/running-python-scripts-from-batch-files/</link>
