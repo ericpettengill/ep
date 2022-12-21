@@ -1,6 +1,7 @@
-baseurl = "https://ericpettengill.github.io/"
+baseurl = "https://ericpettengill.github.io/ep"
 title = "EP"
 theme = "hugo-coder"
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
