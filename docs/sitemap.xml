@@ -2,13 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ericpettengill.github.io/ep/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericpettengill.github.io/ep/posts/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericpettengill.github.io/ep/posts/running-python-scripts-from-batch-files/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericpettengill.github.io/ep/posts/parallelizing-api-calls-using-python/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ericpettengill.github.io/ep/about/</loc>
   </url><url>
     <loc>https://ericpettengill.github.io/ep/authors/</loc>
   </url><url>
     <loc>https://ericpettengill.github.io/ep/categories/</loc>
-  </url><url>
-    <loc>https://ericpettengill.github.io/ep/</loc>
   </url><url>
     <loc>https://ericpettengill.github.io/ep/series/</loc>
   </url><url>
