@@ -1,5 +1,4 @@
 +++ 
-draft = true
 date = 2021-12-20
 title = "Extract Tableau Shapes Using Python"
 description = ""
