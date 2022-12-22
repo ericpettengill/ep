@@ -8,7 +8,7 @@ I'm Eric and currently work at Caterpillar, Inc. as a Sr. Data Scientist buildin
 products using IIoT data. Previously, I was a graduate teaching assistant at 
 Western Michigan University while completing my Master's in Statistics. 
 
-In my free time I enjoy playing golf and trying new foods/restaurants!
+In my free time I enjoy travelling, playing golf and trying new foods/restaurants!
 
 {{<mermaid>}}
 gantt
