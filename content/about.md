@@ -6,6 +6,8 @@ Hi!
 
 Test text
 
+some more test text here
+
 I'm Eric and currently work at Caterpillar, Inc. as a Sr. Data Scientist building digital 
 products using IIoT data. Previously, I was a graduate teaching assistant at 
 Western Michigan University while completing my Master's in Statistics. 
