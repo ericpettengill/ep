@@ -2,12 +2,12 @@
 title: About
 ---
 
+{{< figure src="/ep/images/colorado.jpeg" width="600" >}}
+
 Hi!
 
 I'm Eric and currently work at Caterpillar, Inc. as a Sr. Data Scientist building digital 
-products using IIoT data. 
-
-In my free time I enjoy travelling, playing golf and trying new foods/restaurants!
+products using IIoT data. In my free time I enjoy travelling, playing golf and trying new foods/restaurants!
 
 :round_pushpin::hand: Hastings, MI :arrow_right: :round_pushpin::house_with_garden: Peoria, IL
 
